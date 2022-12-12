@@ -1,0 +1,68 @@
+C:\Users\LENOVO\Desktop\EESMap_3D\EESMap_3D\bin\Debug\EESMap_3D.exe.config
+C:\Users\LENOVO\Desktop\EESMap_3D\EESMap_3D\bin\Debug\EESMap_3D.exe
+C:\Users\LENOVO\Desktop\EESMap_3D\EESMap_3D\bin\Debug\EESMap_3D.pdb
+C:\Users\LENOVO\Desktop\EESMap_3D\EESMap_3D\obj\Debug\EESMap_3D.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\EESMap_3D\EESMap_3D\obj\Debug\MainWindow.g.cs
+C:\Users\LENOVO\Desktop\EESMap_3D\EESMap_3D\obj\Debug\App.g.cs
+C:\Users\LENOVO\Desktop\EESMap_3D\EESMap_3D\obj\Debug\EESMap_3D_MarkupCompile.cache
+C:\Users\LENOVO\Desktop\EESMap_3D\EESMap_3D\obj\Debug\EESMap_3D_MarkupCompile.lref
+C:\Users\LENOVO\Desktop\EESMap_3D\EESMap_3D\obj\Debug\MainWindow.baml
+C:\Users\LENOVO\Desktop\EESMap_3D\EESMap_3D\obj\Debug\EESMap_3D.g.resources
+C:\Users\LENOVO\Desktop\EESMap_3D\EESMap_3D\obj\Debug\EESMap_3D.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\EESMap_3D\EESMap_3D\obj\Debug\EESMap_3D.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\EESMap_3D\EESMap_3D\obj\Debug\EESMap_3D.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\EESMap_3D\EESMap_3D\obj\Debug\EESMap_3D.exe
+C:\Users\LENOVO\Desktop\EESMap_3D\EESMap_3D\obj\Debug\EESMap_3D.pdb
+C:\Users\LENOVO\Desktop\EESMap_3D\EESMap_3D\bin\Debug\HelixToolkit.dll
+C:\Users\LENOVO\Desktop\EESMap_3D\EESMap_3D\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\LENOVO\Desktop\EESMap_3D\EESMap_3D\bin\Debug\HelixToolkit.xml
+C:\Users\LENOVO\Desktop\EESMap_3D\EESMap_3D\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\LENOVO\Desktop\EESMap_3D\EESMap_3D\obj\Debug\EESMap_3D.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\EESMap_3D\EESMap_3D\bin\Debug\Images\map.jpg
+C:\Users\LENOVO\Desktop\EESMap_3D\EESMap_3D\obj\Debug\EESMap_3D_Content.g.cs
+C:\Users\LENOVO\Desktop\Fakultet\4. Godina\Grafika\EESMap_3D\EESMap_3D\bin\Debug\Images\map.jpg
+C:\Users\LENOVO\Desktop\Fakultet\4. Godina\Grafika\EESMap_3D\EESMap_3D\bin\Debug\EESMap_3D.exe.config
+C:\Users\LENOVO\Desktop\Fakultet\4. Godina\Grafika\EESMap_3D\EESMap_3D\bin\Debug\EESMap_3D.exe
+C:\Users\LENOVO\Desktop\Fakultet\4. Godina\Grafika\EESMap_3D\EESMap_3D\bin\Debug\EESMap_3D.pdb
+C:\Users\LENOVO\Desktop\Fakultet\4. Godina\Grafika\EESMap_3D\EESMap_3D\bin\Debug\HelixToolkit.dll
+C:\Users\LENOVO\Desktop\Fakultet\4. Godina\Grafika\EESMap_3D\EESMap_3D\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\LENOVO\Desktop\Fakultet\4. Godina\Grafika\EESMap_3D\EESMap_3D\bin\Debug\HelixToolkit.xml
+C:\Users\LENOVO\Desktop\Fakultet\4. Godina\Grafika\EESMap_3D\EESMap_3D\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\LENOVO\Desktop\Fakultet\4. Godina\Grafika\EESMap_3D\EESMap_3D\obj\Debug\EESMap_3D.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Fakultet\4. Godina\Grafika\EESMap_3D\EESMap_3D\obj\Debug\MainWindow.g.cs
+C:\Users\LENOVO\Desktop\Fakultet\4. Godina\Grafika\EESMap_3D\EESMap_3D\obj\Debug\App.g.cs
+C:\Users\LENOVO\Desktop\Fakultet\4. Godina\Grafika\EESMap_3D\EESMap_3D\obj\Debug\EESMap_3D_Content.g.cs
+C:\Users\LENOVO\Desktop\Fakultet\4. Godina\Grafika\EESMap_3D\EESMap_3D\obj\Debug\EESMap_3D_MarkupCompile.cache
+C:\Users\LENOVO\Desktop\Fakultet\4. Godina\Grafika\EESMap_3D\EESMap_3D\obj\Debug\EESMap_3D_MarkupCompile.lref
+C:\Users\LENOVO\Desktop\Fakultet\4. Godina\Grafika\EESMap_3D\EESMap_3D\obj\Debug\MainWindow.baml
+C:\Users\LENOVO\Desktop\Fakultet\4. Godina\Grafika\EESMap_3D\EESMap_3D\obj\Debug\EESMap_3D.g.resources
+C:\Users\LENOVO\Desktop\Fakultet\4. Godina\Grafika\EESMap_3D\EESMap_3D\obj\Debug\EESMap_3D.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Fakultet\4. Godina\Grafika\EESMap_3D\EESMap_3D\obj\Debug\EESMap_3D.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Fakultet\4. Godina\Grafika\EESMap_3D\EESMap_3D\obj\Debug\EESMap_3D.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Fakultet\4. Godina\Grafika\EESMap_3D\EESMap_3D\obj\Debug\EESMap_3D.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\Fakultet\4. Godina\Grafika\EESMap_3D\EESMap_3D\obj\Debug\EESMap_3D.exe
+C:\Users\LENOVO\Desktop\Fakultet\4. Godina\Grafika\EESMap_3D\EESMap_3D\obj\Debug\EESMap_3D.pdb
+C:\Users\LENOVO\Desktop\Fakultet\4. Godina\Grafika\EESMap_3D\EESMap_3D\bin\Debug\Images\center.png
+C:\Users\acopr\Desktop\EESMap_3D\EESMap_3D\bin\Debug\Images\center.png
+C:\Users\acopr\Desktop\EESMap_3D\EESMap_3D\bin\Debug\Images\map.jpg
+C:\Users\acopr\Desktop\EESMap_3D\EESMap_3D\bin\Debug\EESMap_3D.exe.config
+C:\Users\acopr\Desktop\EESMap_3D\EESMap_3D\bin\Debug\EESMap_3D.exe
+C:\Users\acopr\Desktop\EESMap_3D\EESMap_3D\bin\Debug\EESMap_3D.pdb
+C:\Users\acopr\Desktop\EESMap_3D\EESMap_3D\bin\Debug\HelixToolkit.dll
+C:\Users\acopr\Desktop\EESMap_3D\EESMap_3D\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\acopr\Desktop\EESMap_3D\EESMap_3D\bin\Debug\HelixToolkit.xml
+C:\Users\acopr\Desktop\EESMap_3D\EESMap_3D\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\acopr\Desktop\EESMap_3D\EESMap_3D\obj\Debug\EESMap_3D.csproj.AssemblyReference.cache
+C:\Users\acopr\Desktop\EESMap_3D\EESMap_3D\obj\Debug\MainWindow.g.cs
+C:\Users\acopr\Desktop\EESMap_3D\EESMap_3D\obj\Debug\App.g.cs
+C:\Users\acopr\Desktop\EESMap_3D\EESMap_3D\obj\Debug\EESMap_3D_Content.g.cs
+C:\Users\acopr\Desktop\EESMap_3D\EESMap_3D\obj\Debug\EESMap_3D_MarkupCompile.cache
+C:\Users\acopr\Desktop\EESMap_3D\EESMap_3D\obj\Debug\EESMap_3D_MarkupCompile.lref
+C:\Users\acopr\Desktop\EESMap_3D\EESMap_3D\obj\Debug\MainWindow.baml
+C:\Users\acopr\Desktop\EESMap_3D\EESMap_3D\obj\Debug\EESMap_3D.g.resources
+C:\Users\acopr\Desktop\EESMap_3D\EESMap_3D\obj\Debug\EESMap_3D.Properties.Resources.resources
+C:\Users\acopr\Desktop\EESMap_3D\EESMap_3D\obj\Debug\EESMap_3D.csproj.GenerateResource.cache
+C:\Users\acopr\Desktop\EESMap_3D\EESMap_3D\obj\Debug\EESMap_3D.csproj.CoreCompileInputs.cache
+C:\Users\acopr\Desktop\EESMap_3D\EESMap_3D\obj\Debug\EESMap_3D.csproj.CopyComplete
+C:\Users\acopr\Desktop\EESMap_3D\EESMap_3D\obj\Debug\EESMap_3D.exe
+C:\Users\acopr\Desktop\EESMap_3D\EESMap_3D\obj\Debug\EESMap_3D.pdb
